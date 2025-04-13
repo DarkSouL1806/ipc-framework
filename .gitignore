@@ -1,0 +1,6 @@
+pipe
+msg_queue
+shared_memory
+*.o
+ipc_log.txt
+monitor/ipc_event.txt

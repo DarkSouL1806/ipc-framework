@@ -1,3 +1,8 @@
+![Language](https://img.shields.io/badge/language-C++%20%7C%20Python-blue)
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/DarkSouL1806/ipc-framework)
+
+
 # IPC Framework – Inter-Process Communication System
 
 This project is a **C++ and Python-based IPC framework** that facilitates secure and efficient inter-process communication using:
@@ -103,9 +108,14 @@ cat ipc_log.txt
 
 ---
 
-## ✍️ Author
+---
 
-**Gaurav Singh Tanwar**  
-Lovely Professional University  
-April 2025
+## 🙌 Acknowledgements
 
+- Project developed as part of the Operating Systems course at Lovely Professional University.
+- Thanks to faculty for guidance and evaluation.
+
+## 📬 Contact
+
+If you have any questions or suggestions:
+- GitHub: [DarkSouL1806](https://github.com/DarkSouL1806)

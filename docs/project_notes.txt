@@ -1,0 +1,4 @@
+pipe.cpp - IPC using unnamed pipes between parent and child
+msg_queue.cpp - IPC using message queues with logging
+shared_memory.cpp - IPC using shared memory segment
+ipc_logger.py - Python-based real-time monitoring and logging
